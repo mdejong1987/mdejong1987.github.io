@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Persoonlijke projecten
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Uitgaven afgelopen 6 maanden](/uitgaven_afgelopen_6_maanden)
+<img src="images/personal_project_uitgaven_afgelopen_6_maanden.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

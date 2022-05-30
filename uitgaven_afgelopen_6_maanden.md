@@ -1,28 +1,16 @@
-## This can be your internal website page / project page
+## Uitgaven afgelopen 6 maanden
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project beschrijving:** Inzichtelijk maken van maandelijkse kosten en op basis van deze data een overzicht creëren die de grootste kostenposten kon aantonen die ik kan gebruiken om bespaar beslissingen te maken.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Welke tijdsperiode gebruiken we voor de data?
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Voor dit project wilde ik niet te oude maar ook niet te nieuwe data hebben. Aangezien we dan ook op dit moment uit de corona crisis zijn leek me een tijdspanne van 6 maanden realistisch. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 2. Stappen genomen tijdens het opschonen van de data
 
-### 2. Assess assumptions on which statistical inference will be based
+### 3. Uiteindelijke visualisatie
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/personal_project_uitgaven_afgelopen_6_maanden.png?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 

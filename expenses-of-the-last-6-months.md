@@ -1,4 +1,4 @@
-## Fixed charge overview of the last 6 months
+## Expenses of the last 6 months
 
 **Project description:** Get insights of the monthly fixed chargers in a clear and visual way in order to recognize the biggest expenses. The data and visualisation will then be used to get more control over the monthly spendings and to look for opportunities to save money.
 

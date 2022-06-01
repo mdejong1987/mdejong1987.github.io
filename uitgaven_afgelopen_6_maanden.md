@@ -1,6 +1,6 @@
-## Uitgaven afgelopen 6 maanden
+## Fixed charge overview of the last 6 months
 
-**Project beschrijving:** Inzichtelijk maken van maandelijkse kosten en op basis van deze data een overzicht creëren die de grootste kostenposten kon aantonen die ik kan gebruiken om bespaar beslissingen te maken.
+**Project description:** Get insights of the monthly fixed chargers in a clear and visual way in order to recognize the biggest expenses. The data and visualisation will then be used to get more control over the monthly spendings and to look for opportunities to save money.
 
 ### 1. Welke tijdsperiode gebruiken we voor de data?
 
@@ -8,12 +8,12 @@ Voor dit project wilde ik niet te oude maar ook niet te nieuwe data hebben. Aang
 
 ### 2. Stappen genomen tijdens het opschonen van de data
 
-### 3. Uiteindelijke visualisatie
+### Visualisation
 
 <img src="images/personal_project_uitgaven_afgelopen_6_maanden.png?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### Results
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The data and visualisation showed clearly what the biggest monthly expenses were. To put this in the context of saving money I found out the most of the money was going towards subscriptions like Netflix, Disney+, Xbox Live and my personal habits.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The actions I took after this analysis was finding out what I still used and what not. If I decided I did not use it for a while and was not planning on using it in the near future I cancelled the subscription. I will be keeping an eye on the next couple of months to see if my choices and actions made any differences.
